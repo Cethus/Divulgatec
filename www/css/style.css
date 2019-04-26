@@ -1,2 +1,37 @@
 /**/
 
+.btn{
+  margin-bottom:3%;
+  text-decoration: none;
+  background-color: rgb(177, 19, 19);
+}
+.btn:link{
+  color: white;
+}
+.navbar-inner{
+  background-color: firebrick;
+}
+.btn-inicio:hover{
+  background-color: ghostwhite;
+  border: solid;
+  border-color: lightgrey;
+  color: rgb(177, 19, 19);
+}
+.caixa{
+  margin-top: 60%;
+  border: solid;
+  border-color: black;
+  display: block;
+  padding: 5%;
+  border-radius: 10px;
+}
+.opcao{
+  padding: 5%;
+  padding-right: 15%;
+  padding-left: 15%;
+  width: auto;
+  border-radius: 20px;
+}
+.page-content{
+  margin-top: 15%;
+}
